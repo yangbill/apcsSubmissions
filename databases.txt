@@ -1,0 +1,20 @@
+What is a Database?
+A database is an organized collection of data.
+
+Define it and explain it in detail.
+See definition above. In reality, it is a collection of objects that are stored in a certain organized way that fits the designer's needs.
+For example, Google will organize their database in a way that will allow their search algorithm to search in a matter of miliseconds.
+
+Mention at least 5 different Types of Databases.
+1. Centralized Database
+2. Cloud Database
+3. Government Database
+4. Mobile Database
+5. Relational Database
+
+What Does Relational means in the Database world?
+The relational model of data is an approach to database management in which all data is represented in terms of 'keys', and grouped into 'relations'.
+Thus, it provides a way to specify data - users directly state what the database has and what they want from it.
+
+Make a graphical representation of what you have learned.
+
