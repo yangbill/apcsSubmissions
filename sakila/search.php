@@ -36,7 +36,7 @@
 							while($row = mysqli_fetch_array($query))
 							{
 								//echo "<div id='link' onClick='addText(\"".$row['film_id']."\");'>" . $row['title'] . "</div>";
-								echo "<div <b><a href=\"film_info.php?film_id={$row['film_id']}\">{$row['title']}</a></b> </div>";								
+								echo "<div <b><a href=\"film_stock.php?film_id={$row['film_id']}\">{$row['title']}</a></b> </div>";								
 							}
 						}
 					?>
